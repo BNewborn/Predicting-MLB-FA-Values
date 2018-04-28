@@ -2,7 +2,7 @@
 
 Welcome to my second Metis project, created in April 2018. In this project, we were tasked with using web-scraping tools to grab data and then create effective and accurate linear regression models to explore/predict continuous dependent variables. This project is known in Metis as "Project Luther"
 
-I am a big baseball fan - go Mets! - so I decided to use this as an opportunity to explore free agent valuations in MLB. You'll see 8 Jupyter notebooks here, organized by task
+I am a big baseball fan - go Mets! - so I decided to use this as an opportunity to explore free agent valuations in MLB. You'll see 7 Jupyter notebooks here, organized by task
 
 ### Section 1 - Scraping ESPN
 * **Final 1 - ESPN Web Scrape.ipynb** - here I use Selenium to scrape ESPN for historical MLB free agent data
