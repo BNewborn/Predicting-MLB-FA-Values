@@ -15,7 +15,7 @@ For these notebooks, I also used Selenium. I went through 3 of Fangraphs' major 
 
 ### Section 3 - Data Cleaning and Merging
 * **Final 3 - Data Cleaning and Combining.ipynb**
-* * **Final 3.1 - Non_FA Data Clean and Merge.ipynb**   
+* **Final 3.1 - Non_FA Data Clean and Merge.ipynb**   
 Here I used Pandas to combine the above datasets into 2 main dataframes. One would join free agent data with hitting data. This would be the engine to then model off of. The second notebook is for cleaning the hitting stats of the rest of the MLB. I ultimately used this as test data for my model to see if its predictions aligned with common sense Values
 
 ### Section 4 - Exploratory Data Analysis
